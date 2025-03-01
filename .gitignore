@@ -1,0 +1,6 @@
+.env
+venv/
+key.json
+lock.jpg
+room.jpg
+output.mp3
