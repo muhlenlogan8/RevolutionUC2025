@@ -4,3 +4,6 @@ key.json
 lock.jpg
 room.jpg
 output.mp3
+backend/images
+backend/output.mp3
+backend/RevUCTextToSpeechKey.json
